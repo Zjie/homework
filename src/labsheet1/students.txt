@@ -1,0 +1,6 @@
+Name: xuetong
+Score: 98 82 87 70
+Name: zhoujie
+Score: 0 0 10 -1
+Name: joller
+Score: 12 87 a82
